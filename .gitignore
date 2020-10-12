@@ -1,0 +1,8 @@
+*Rproj
+nash_codes/.Rproj.user/
+*rds
+nash_output/
+nash_output_figures/
+data/
+
+.Rproj.user
