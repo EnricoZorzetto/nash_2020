@@ -1,6 +1,6 @@
 # Studying the effects of the North Atlantic Subtropical High on United States Rainfall
 
-Codes for analyzing how the statistical properties of daily rainfall over the conterminous United States depened on the position of the North Atantic Subtropical High (NASH) during the summer season.
+Codes for analyzing how the statistical properties of daily rainfall over the conterminous United States depened on the position of the North Atantic Subtropical High (NASH) during the summer season. The software is freely available under the MIT license (see LICENSE.md).
 
 The software can be used to download daily rainfall data from the NOAA USHCN dataset and fit Bayesian statistical Models describing rainfall occurrence, probability distribution and extremes, and their dependence on the NASH position.
 
