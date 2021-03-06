@@ -1,4 +1,4 @@
-# Studying the effects of the North Atlantic Subtropical High on United States Rainfall
+# Studying the effects of the North Atlantic Subtropical High (NASH) on summer rainfall over the United States
 
 Codes for analyzing how the statistical properties of daily rainfall over the conterminous United States depened on the position of the North Atantic Subtropical High (NASH) during the summer season. The software is freely available under the MIT license (see LICENSE.md).
 
@@ -19,7 +19,7 @@ To fit the model to a single station dataset and make some nice plots.
 ```
 main_nash_cluster.R
 ```
-Main script to process the entire dataset in a linux cluster. The script ```stats.sh``` can be used to submit the jobs using Slurm.
+Main script to process the entire dataset in a linux cluster. The script ```stats.sh``` can be used to submit the jobs using Slurm. For more information, see also https://github.com/EnricoZorzetto/hmev2020si.
 
 ```
 main_nash_plot_results.R 
